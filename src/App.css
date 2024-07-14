@@ -1,0 +1,57 @@
+.home-container {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 300px;
+}
+
+.rooms-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.room-square {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+.add-room-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.add-room-button:hover {
+  background-color: #2980b9;
+}
+
+.circle-button {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  font-size: 35px;
+  line-height: 10px;
+  
+  
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.circle-button:hover {
+  background-color: #2980b9;
+}

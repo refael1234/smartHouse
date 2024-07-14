@@ -1,0 +1,29 @@
+.add-room-container {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+select, input {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: rgb(156, 145, 145);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}

@@ -1,0 +1,14 @@
+.room-container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+  }
+
+  .false{
+    background: #f90909;
+    color: black;
+  }
+  .true{
+    background: #02f01a;
+  }
+  
